@@ -31,7 +31,7 @@ body {
     background-image: url('./imgs/unnamed.png');
     /* background-size: cover; */
     background-size: 100%;
-    background-position: 150px -100px;
+    background-position: 150px 20%;
     background-color:rgba(255,255,255,0.5);
     background-blend-mode:lighten;
 }
